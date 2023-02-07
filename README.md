@@ -5,11 +5,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+- [Screenshot](#screenshot)
+- [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+- [Built with](#built-with)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -32,16 +31,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - CSS Variables 
 
-### What I learned
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
 
 ## Author
 
